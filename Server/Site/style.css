@@ -1,0 +1,79 @@
+body
+{
+ margin: 0;
+}
+
+#Logo
+{
+  width: 100%;
+  height: 23%;
+}
+
+.Nav-Bar
+{
+  list-style-type: none;
+  background-color: #dddddd;
+  margin: 0;
+  padding: 0;
+  width: 12%;
+  height: 100%;
+  position: fixed;
+  overflow: auto;
+}
+
+.Nav-Img
+{
+  text-align: center;
+  display: block;
+  width: 100%;
+  background-color: #dddddd;
+}
+
+.Nav-active
+{
+  text-align: center;
+  font-family: Georgia;
+  font-size: 22px;
+  display: block;
+  width: 100%;
+  background-color: #bba464;
+  color: white;
+}
+
+.Nav-Header
+{
+  text-align: center;
+  font-family: Georgia;
+  font-size: 22px;
+  display: block;
+  width: 100%;
+  background-color: #999;
+}
+
+.Nav-Value
+{
+  text-align: center;
+  font-family: Georgia;
+  font-size: 22px;
+  display: block;
+  width: 100%;
+  background-color: #dddddd;
+}
+
+.Nav-Value:hover
+{
+  background-color: #555;
+  color: white;
+}
+
+#Div-Header
+{
+  margin-left: 12%;
+  height: 13%;
+  background-color: #999;
+}
+
+#Div-Body
+{
+  margin-left: 12%;
+}
